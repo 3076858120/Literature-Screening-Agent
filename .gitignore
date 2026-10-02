@@ -1,0 +1,26 @@
+# Zotero / local databases
+*.sqlite
+*.sqlite-journal
+*.sqlite-wal
+*.sqlite-shm
+.zref.sqlite
+zotero.sqlite
+
+# Personal research outputs
+all_titles.txt
+collection_status.txt
+相关性筛选结果.md
+筛选进度.md
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
